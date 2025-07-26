@@ -1,0 +1,10 @@
+Churn: 1 se o cliente cancelou o serviço, 0 caso contrário;
+AccountWeeks: número de semanas que o cliente tem a conta ativa;
+ContractRenewal:1 se o cliente renovou recentemente o contrato, 0 caso contrário
+DataPan: 1 se o cliente tiver um plano de dados, 0 se não tiver;
+DataUsege: gigabytes de utilização mensal de dados;
+CustServCalls: número de chamadas para o serviço de apoio ao cliente;
+DayMins: média de minutos diurnos por mês;
+DayCalls: número médio de chamadas durante o dia
+MonthlyChange: fatura mensal média;
+OverageFee: maior taxa de excesso nos últimos 12 meses.
